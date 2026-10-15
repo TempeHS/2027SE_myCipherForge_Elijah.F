@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from engine import encrypt, decrypt
 
 key = {"shift": 7}
-message = "My secret message 123!"
+message = "Welcome to CipherForge"
 
 encrypted = encrypt(message, key)
 decrypted = decrypt(encrypted, key)
