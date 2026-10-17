@@ -21,7 +21,7 @@ CipherForge is an educational encryption system that demonstrates how real-world
 | 2 | Transposition | Reverses characters in blocks |
 | 3 | Key-Dependent | Uses password for variable shifting |
 | 4 | Noise Injection | Adds decoy characters |
-| 5 | Wild Card | [YOUR DESCRIPTION HERE] |
+| 5 | Wild Card | Swaps adjacent pairs of characters |
 
 ## 🚀 Getting Started
 
